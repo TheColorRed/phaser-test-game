@@ -1,0 +1,23 @@
+{
+  "name": "card-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "p2": "^0.7.1",
+    "pixi.js": "^4.5.6"
+  },
+  "devDependencies": {
+    "@types/typescript": "^2.0.0",
+    "@types/webpack": "^3.0.13",
+    "phaser-ce": "^2.8.8",
+    "ts-loader": "^2.3.7",
+    "typescript": "^2.5.3",
+    "webpack": "^3.6.0"
+  }
+}
